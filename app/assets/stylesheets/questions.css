@@ -1,0 +1,19 @@
+body {
+  background: gray;
+}
+
+.banner {
+  background: red;
+}
+
+.banner h1 {
+  font-size: 50px;
+}
+
+a {
+  color: grey;
+}
+
+a:hover {
+  color: black;
+}
